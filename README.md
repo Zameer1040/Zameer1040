@@ -1,3 +1,4 @@
+![logo](https://github.com/Zameer1040/Zameer1040/blob/main/Git%20Hub%20Banner.png.png)
 <h1 align="center">Hi 👋, I'm Shaik Zameer</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
